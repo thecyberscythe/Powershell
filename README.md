@@ -1,2 +1,3 @@
 # TSec Labs
-Scripts related to blog content
+Scripts to ease troubles.
+* iDRAC LDAP Configurations.
